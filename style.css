@@ -1,0 +1,37 @@
+body {
+    
+    /*es para dar color al fondo*/
+    background: blue;
+    color: hotpink;
+    /* es para dar color al texto*/
+    /**/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: rgb;
+
+}
+
+h3 {
+
+ color:red ;
+
+}
+
+h4{}
+
+
+
+
+
